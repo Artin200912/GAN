@@ -1,0 +1,9 @@
+tensorflow==2.6.0
+tensorflow-datasets==2.3.0
+matplotlib==3.4.3
+numpy==1.21.2
+tensorflow-keras==2.6.0
+os==0.1.5
+tensorflow-keras-preprocessing==2.6.0
+tensorflow-keras-callbacks==2.6.0
+ipywidgets==7.6.5
