@@ -8,6 +8,7 @@ This project demonstrates the use of Generative Adversarial Networks (GANs) to g
 - **Image Generation**: The ability to generate new fashion images that resemble the training dataset.
 - **Visualization**: Provides visualizations of the generated images for comparison with the original dataset.
 
+![Screenshot 2024-05-12 233946](https://github.com/Artin200912/GAN/assets/136892986/d5a1d39e-5ed8-4122-b578-1f8fa058d4df)
 
 ## Getting Started
 
