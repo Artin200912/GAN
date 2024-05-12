@@ -10,7 +10,7 @@ This project demonstrates the use of Generative Adversarial Networks (GANs) to g
 
 
 - **output: 
-  	[image](https://github.com/Artin200912/GAN/assets/136892986/cb06d949-2e90-4937-aed6-5f13d29e8b6d)
+  	![image](https://github.com/Artin200912/GAN/assets/136892986/cb06d949-2e90-4937-aed6-5f13d29e8b6d)
 
 ## Getting Started
 
